@@ -1,0 +1,24 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Aula04",
+            "request": "launch",
+            "mainClass": "Aula04",
+            "projectName": "terminalArgumentos08_1dc19db7"
+        },
+        {
+            "type": "java",
+            "name": "Aula03",
+            "request": "launch",
+            "mainClass": "Aula03",
+            "projectName": "terminalArgumentos08_1dc19db7",
+            "args": [
+                "argumento1 dentro do lauch.json",
+                "argumento2 dentro do lauch.json",
+                "argumento3 dentro do lauch.json"
+            ]
+        }
+    ]
+}
