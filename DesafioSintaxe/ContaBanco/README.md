@@ -1,18 +1,22 @@
-## Getting Started
+# ContaBanco - Desafio de Sintaxe Java 💻
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+![DIO Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjjE0uZuOxkE7aM45I6ImrvkLQJsPnUfuELsRIkxtAkQ&s)
 
-## Folder Structure
+## Descrição
+Este projeto faz parte da Trilha Java Básico da Digital Innovation One (DIO). O desafio consiste em exercitar os conceitos de sintaxe apresentados no módulo, criando um programa em Java que simula um sistema de informações de conta bancária.
 
-The workspace contains two folders by default, where:
+## Autor
+- Gleyson Sampaio
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Como Executar
+1. Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
+2. Clone este repositório: `git clone https://github.com/ArthurMiguelVieira/bootcampSantander.git`
+3. Navegue até o diretório do desafio: `cd bootcampSantander/DesafioSintaxe/ContaBanco`
+4. Compile o arquivo `ContaTerminal.java`: `javac ContaTerminal.java`
+5. Execute o programa: `java ContaTerminal`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Desafio
+Vamos exercitar 😊;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- [Desafio](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe): Clique aqui para acessar o desafio no repositório da Digital Innovation One.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
